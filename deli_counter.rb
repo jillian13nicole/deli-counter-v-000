@@ -1,4 +1,4 @@
 def line(current_place)
-  if current_place == 0
+  if current_place == ""
   return "The line is currently empty."
 end
